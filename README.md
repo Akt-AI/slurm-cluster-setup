@@ -1,4 +1,4 @@
-# Single-Node SLURM Cluster Installation Script
+# Single-Node SLURM Cluster Installation Script: Ubuntu24.04.1
 
 ## Overview
 This script automates the installation and configuration of a single-node SLURM cluster on an Ubuntu system. It ensures idempotency, robust error handling, and proper setup of all necessary components, including MUNGE and SLURM services.
